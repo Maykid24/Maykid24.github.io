@@ -1,0 +1,37 @@
+body {
+	background-image: url("ResumePaper.jpg");
+}
+
+.Header {
+	text-align: center;
+	font-size: 20px;
+}
+
+.Head2 {
+	text-align: center;
+}
+
+.Margin {
+	margin-left: 350px;
+	margin-right: 350px;
+}
+
+.font {
+	font-family: "Times New Roman", Times, serif;
+}
+
+.Year {
+	float: right;
+	font-size: 19px;
+	font-weight: bold;
+}
+
+.block-Year {
+	display: block;
+}
+
+.Points {
+	font-size: 18px;
+}
+
+
